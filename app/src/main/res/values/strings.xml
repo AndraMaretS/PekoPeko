@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">PekoPeko</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to find some recipe of food!</string>
+
+    <string name="slide_2_title">Ice Cream</string>
+    <string name="slide_2_desc">Make your favorite ice cream everyday!</string>
+
+    <string name="slide_3_title">Drink</string>
+    <string name="slide_3_desc">You also can make your own drink with easy way!</string>
+
+    <string name="slide_4_title">Eat</string>
+    <string name="slide_4_desc">So, lets cook together and grab a delicious food!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
 </resources>
